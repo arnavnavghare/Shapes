@@ -1,0 +1,7 @@
+R,Hall,12,14,Construction,21500,Rs/sq.m
+R,Kitchen,20,18,Construction,21500,Rs/sq.m
+R,Bedroom,16,16,Construction,21500,Rs/sq.m
+C,Fountain,3.14286,6.28571,Fountain,15000,Rs/sq.m
+T,Garden,9.92157,15,Outdoor Lawn,200,Rs/sq.m
+R,Boundry,42,26,Compound wall,2000,Rs/m
+R,Safety,42,26,Wire fense,500,Rs/m

@@ -1,0 +1,7 @@
+Construction,21500,Rs/sq.m
+Outdoor Lawn,200,Rs/sq.m
+Indoor Lawn,350,Rs/sq.m
+Fountain,15000,Rs/sq.m
+Compound wall,2000,Rs/m
+Wire fense,500,Rs/m
+Pool,25000,Rs/sq.m
